@@ -3,12 +3,16 @@
 Welcome to the Responsive Landing Page Project! This repository contains a responsive landing page template designed to provide a sleek and modern look, optimized for various screen sizes and devices.
 
 ## Table of Contents
-
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+
+## Demo
+![Landing Page Screenshot](assets/Screenshot.png)
+![Mobile Screenshot](assets/fullLengthSS.png)
 
 ## Features
 
