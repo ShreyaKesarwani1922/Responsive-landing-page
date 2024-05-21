@@ -12,7 +12,14 @@ Welcome to the Responsive Landing Page Project! This repository contains a respo
 
 ## Demo
 ![Landing Page Screenshot](assets/Screenshot.png)
+
+
+
+
+
 ![Mobile Screenshot](assets/fullLengthSS.png)
+<img src="assets/fullLengthSS.png" alt="Landing Page Screenshot" width="600">
+
 
 ## Features
 
